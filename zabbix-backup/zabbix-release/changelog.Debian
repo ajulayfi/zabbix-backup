@@ -1,0 +1,129 @@
+zabbix-release (1:5.4-1+ubuntu20.04) stable; urgency=low
+
+  * update to 5.4
+  * using https in zabbix.list
+
+ -- Zabbix Packager <info@zabbix.com>  Fri, 14 May 2021 13:34:39 +0300
+
+zabbix-release (1:5.3-1) stable; urgency=low
+
+  * update to 5.3
+
+ -- Zabbix Packager <info@zabbix.com>  Mon, 25 Jan 2021 10:00:00 +0200
+
+zabbix-release (1:5.2-1) stable; urgency=low
+
+  * update to 5.2
+
+ -- Zabbix Packager <info@zabbix.com>  Mon, 26 Oct 2020 10:00:00 +0200
+
+zabbix-release (1:5.1-1) stable; urgency=low
+
+  * update to 5.1
+  * replaced codenames in package names with distro & numeric version
+
+ -- Zabbix Packager <info@zabbix.com>  Mon, 17 Aug 2020 10:00:00 +0300
+
+zabbix-release (1:5.0-1) stable; urgency=low
+
+  * update to 5.0
+  * frontend package has been deprecated on stretch and xenial
+  * please see https://www.zabbix.com/documentation/5.0/manual/installation/install_from_packages/frontend_on_debian
+
+ -- Zabbix Packager <info@zabbix.com>  Mon, 11 May 2020 10:00:00 +0300
+
+zabbix-release (1:4.5-1) stable; urgency=low
+
+  * update to 4.5
+
+ -- Zabbix Packager <info@zabbix.com>  Mon, 27 Jan 2020 10:37:11 +0200
+
+zabbix-release (1:4.4-1) stable; urgency=low
+
+  * update to 4.4
+
+ -- Zabbix Packager <info@zabbix.com>  Mon, 7 Oct 2019 10:58:57 +0300
+
+zabbix-release (1:4.3-2) stable; urgency=low
+
+  * added epoch 1
+
+ -- Zabbix Packager <info@zabbix.com>  Fri, 4 Oct 2019 16:10:57 +0300
+
+zabbix-release (4.3-1) stable; urgency=low
+
+  * update to 4.3
+
+ -- Zabbix Packager <info@zabbix.com>  Wed, 17 Jul 2019 15:21:00 +0200
+
+zabbix-release (4.2-1) stable; urgency=low
+
+  * update to 4.2
+
+ -- Zabbix Packager <info@zabbix.com>  Fri, 29 Mar 2019 15:10:08 +0200
+
+zabbix-release (4.1-1) stable; urgency=low
+
+  * update to Zabbix 4.1
+
+ -- Zabbix Packager <info@zabbix.com>  Thu, 29 Nov 2018 17:08:00 +0200
+
+zabbix-release (4.0-2) stable; urgency=low
+
+  * fix version in zabbix.list
+
+ -- Vladimir Levijev <vladimir.levijev@zabbix.com>  Tue,  2 Oct 2018 07:35:00 +0300
+
+zabbix-release (4.0-1) stable; urgency=low
+
+  * update to Zabbix 4.0
+
+ -- Vladimir Levijev <vladimir.levijev@zabbix.com>  Mon,  1 Oct 2018 09:39:00 +0300
+
+zabbix-release (3.5-1) stable; urgency=low
+
+  * update to Zabbix 3.5
+
+ -- Vladimir Levijev <vladimir.levijev@zabbix.com>  Tue, 19 Dec 2017 18:20:47 +0300
+
+zabbix-release (3.4-1) stable; urgency=low
+
+  * update to Zabbix 3.4
+
+ -- Vladimir Levijev <vladimir.levijev@zabbix.com>  Mon, 21 Aug 2017 15:24:47 +0300
+
+zabbix-release (3.2-1) stable; urgency=low
+
+  * update to Zabbix 3.2
+
+ -- Kodai Terashima <kodai.terashima@zabbix.com>  Tue, 13 Sep 2016 23:01:47 +0200
+
+zabbix-release (3.0-1) stable; urgency=low
+
+  * update to Zabbix 3.0
+
+ -- Kodai Terashima <kodai.terashima@zabbix.com>  Mon, 18 Jul 2016 20:55:21 +0900
+
+zabbix-release (2.4-1) stable; urgency=low
+
+  * update to Zabbix 2.4
+
+ -- Kodai Terashima <kodai.tearshima@zabbix.com>  Thu, 11 Sep 2014 10:58:24 +0200
+
+zabbix-release (2.2-1) stable; urgency=low
+
+  * update to Zabbix 2.2
+
+ -- Kodai Terashima <kodai.terashima@zabbix.com>  Tue, 12 Nov 2013 22:20:37 +0900
+
+zabbix-release (2.0-1) unstable; urgency=low
+
+  * update to Zabbix 2.0
+
+ -- Kodai Terashima <kodai.terashima@zabbix.com>  Fri, 25 Jan 2013 20:49:32 +0900
+
+zabbix-release (1.8-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Kodai Terashima <kodai.terashima@zabbix.com>  Wed, 23 Jan 2013 17:00:35 +0900
